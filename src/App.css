@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+body{
+    font-family: "Muli","Open Sans";
+}
+.footer-body{
+    background-color: #3f51b5;
+    color: whitesmoke;
+    line-height: 1.5;
+    font-weight: 400;
+    
+}
+.footer-copyright{
+    margin-left: 37%;
+}
